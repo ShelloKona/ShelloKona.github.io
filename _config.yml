@@ -4,13 +4,13 @@ url: "http://shellokona.github.io"    # the protocol and hostname of your site, 
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  Hello, I'm Shello. Welcome to my blog!
+  This is my blog thing.
 
 # Your information
 email: your_email@example.com
 author: your_name
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: Hello, I'm Shello. Welcome to my blog!
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
