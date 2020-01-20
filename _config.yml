@@ -4,7 +4,7 @@ url: "http://shellokona.github.io"    # the protocol and hostname of your site, 
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Hello, I'm Shello. Welcome to my blog!
 
 # Your information
 email: your_email@example.com
