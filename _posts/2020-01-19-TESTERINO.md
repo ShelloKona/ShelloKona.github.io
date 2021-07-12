@@ -1,6 +1,6 @@
 ﻿Something I procrastinated on until just recently was applying for scholarships to help pay for college. It's terrifying enough to complete <b>FAFSA</b> for financial aid, or even <i>registering</i> for classes. The mentality I've always held about them was that they were straight-up impossible to get, so why bother? 
 
-<center>![book-4126483_1920.jpg](https://cdn.steemitimages.com/DQmeobKXMB24VYuMbQLenT4zsrBZYc424RpJT66h31QrN1P/book-4126483_1920.jpg)<br>![Pixabay](https://pixabay.com/photos/book-read-student-students-board-4126483/)</center>
+<center>![](http://cdn.steemitimages.com/DQmeobKXMB24VYuMbQLenT4zsrBZYc424RpJT66h31QrN1P/book-4126483_1920.jpg)<br>![Pixabay](https://pixabay.com/photos/book-read-student-students-board-4126483/)</center>
 
 Since school starts up again for me tomorrow, I thought what better time than now to share some things that I'm learning about when applying for them. Maybe this will help others who are scared to begin to sum up the courage to apply for them! Below are what I think are some of the personal "deal-breakers" that will <b>scare someone out of applying.</b>
 
