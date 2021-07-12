@@ -12,7 +12,7 @@ I am a junior for my bachelor's in Computer Information Systems, and I only star
 
 V asked this favor of me because I had purchased a physical scholarship book for $20 called; <i>"The Ultimate Scholarship Book 2020".</i> While I have tried to find scholarships online before, it was a challenge to determine which ones were <b>real,</b> and which ones were trying to make me sign up for a service, or data mine my personal information.
 
-<center>![schol_book.jpg](https://cdn.steemitimages.com/DQmSneifpCzHKkX6SZ3j7TzYtqr2AJK3Tdh34E37v7BdpcB/schol_book.jpg)</center>
+<center>![school_book.jpg](https://cdn.steemitimages.com/DQmSneifpCzHKkX6SZ3j7TzYtqr2AJK3Tdh34E37v7BdpcB/schol_book.jpg)</center>
 
 I feel that one of the things that make it difficult to apply is <b>getting resources</b> on where to apply for them. One really amazing feature about this book (other than multiple guides contained inside) is that at the end of each full detail listing there is a code that you type into the book's website that will take you to the exact page you can apply for that scholarship! I don't have to make accounts or worry about <i>identity theft.</i> finding a reliable resource takes out a lot of the pain of even finding a scholarship to apply to. 
 
