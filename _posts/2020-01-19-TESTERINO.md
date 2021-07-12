@@ -13,7 +13,7 @@ I am a junior for my bachelor's in Computer Information Systems, and I only star
 
 V asked this favor of me because I had purchased a physical scholarship book for $20 called; <i>"The Ultimate Scholarship Book 2020".</i> While I have tried to find scholarships online before, it was a challenge to determine which ones were <b>real,</b> and which ones were trying to make me sign up for a service, or data mine my personal information.
 
-![school_book.jpg](https://cdn.steemitimages.com/DQmSneifpCzHKkX6SZ3j7TzYtqr2AJK3Tdh34E37v7BdpcB/schol_book.jpg)
+![](https://cdn.steemitimages.com/DQmSneifpCzHKkX6SZ3j7TzYtqr2AJK3Tdh34E37v7BdpcB/schol_book.jpg)
 
 I feel that one of the things that make it difficult to apply is <b>getting resources</b> on where to apply for them. One really amazing feature about this book (other than multiple guides contained inside) is that at the end of each full detail listing there is a code that you type into the book's website that will take you to the exact page you can apply for that scholarship! I don't have to make accounts or worry about <i>identity theft.</i> finding a reliable resource takes out a lot of the pain of even finding a scholarship to apply to. 
 
@@ -23,7 +23,7 @@ I feel that one of the things that make it difficult to apply is <b>getting reso
 
 I was skeptical at first, but there is literally a scholarship for <b>anything</b> that exists. As we began reading through the listings, a strange one caught our attention. Did you know that there's a <b>Final Fantasy</b> fan scholarship? Yes, <i>the video game series.</i> One of the requirements is to include an essay on one of the games from this franchise and how it changed your life. Insane.
 
-<center>![idk.gif](https://cdn.steemitimages.com/DQmcVnWPDaNxBTZ76ZLmbh5dbQ6KRtkeUqFCADYnvsYboVg/idk.gif)<br>[Giphy](https://giphy.com/gifs/exams-gmJjYtLrEwDBe)</center>
+![](https://cdn.steemitimages.com/DQmcVnWPDaNxBTZ76ZLmbh5dbQ6KRtkeUqFCADYnvsYboVg/idk.gif)<br>[Giphy](https://giphy.com/gifs/exams-gmJjYtLrEwDBe)
 
 <b>A lot of people think that they won't qualify for any scholarships</b> because their grades aren't high enough, or they aren't a minority. Hogwash. If you take the time, you can definitely find a scholarship that fits you. <i>Multiple really.</i> There is a slew of different qualifications that may or may not be required, so it's a good idea to have some information available in case it is requested. 
 
@@ -31,7 +31,7 @@ Not all of them are going to need <b>SAT/ACT</b> scores, essays, transcripts, or
 
 ---
 
-<center>![draft letter.png](https://cdn.steemitimages.com/DQmQrhiw6nHvAMpoaPheZJfAH1TCosbcZLskMtowT7Hr8aC/draft%20letter.png)</center>
+![](https://cdn.steemitimages.com/DQmQrhiw6nHvAMpoaPheZJfAH1TCosbcZLskMtowT7Hr8aC/draft%20letter.png)
 
 <h3>Letters of Recommendation</h3>
 
@@ -47,7 +47,8 @@ School is hard enough <i>as is.</i> Are you saying that I would have had to do s
 
 You can probably apply for scholarships without writing a single essay, but you will be <b>more likely to win one</b> if you do! Some of the ones we applied for this past weekend required essays. Make sure you read the fine print, some of them have a word requirement, and others a <i>character limit.</i> This is called a <b>"personal statement".</b> When a scholarship requires one, they are asking you to write something from a prompt, or topic they've selected. 
 
-<center>![brah.gif](https://cdn.steemitimages.com/DQmdtNMsjn5qZx4KWRzV3cXPnxHQCJanc2i4EgCgHr2A8eH/brah.gif)<br>[Giphy](https://giphy.com/gifs/studying-kMqJ9CL7656fK)</center>
+![](https://cdn.steemitimages.com/DQmdtNMsjn5qZx4KWRzV3cXPnxHQCJanc2i4EgCgHr2A8eH/brah.gif)<br>
+![](https://giphy.com/gifs/studying-kMqJ9CL7656fK)
 
 The shortest essay I wrote was a 140 character statement. Only <i>half</i> the amount of a tweet! Many of the questions for essays require some time to reflect and there are some that ask about communities you are in, hobbies, and other things about yourself. The selection committees want to get a better idea of who the applicant is. I promise you, essays are not there to punish us! 
 
@@ -73,7 +74,8 @@ We read our answers <b>aloud</b> and helped each other with formatting and gramm
 • Understanding the questions helps answer them better
 • Ask a friend to proofread or read your essays out loud to yourself
 
-<center>![youcan.gif](https://cdn.steemitimages.com/DQmZVq3Ksnq4mUwMbE4p3nLg76z8Ugb7o5z2PAZH7CTxyXh/youcan.gif)<br>[Giphy](https://giphy.com/gifs/7ge427hSVer6)</center>
+![](https://cdn.steemitimages.com/DQmZVq3Ksnq4mUwMbE4p3nLg76z8Ugb7o5z2PAZH7CTxyXh/youcan.gif)<br>
+![](https://giphy.com/gifs/7ge427hSVer6)
 
 There are a lot of unknowns when trying something new, and scholarships are no different!
 
