@@ -7,15 +7,15 @@ description: >
   This is my blog thing.
 
 # Your information
-email: your_email@example.com
+email: shellokona@gmail.com
 author: Shello
 avatar: "https://cdn.steemitimages.com/DQmVs82MC59WJMtq4QgH1CCJcrqCojQGeCzqX8qhR4XNH7f/ITS%20A%20ME.jpg"
 profile: "Hello and welcome to my blog!"
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "mailto:shellokona@gmail.com"
+  #GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
@@ -29,7 +29,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
