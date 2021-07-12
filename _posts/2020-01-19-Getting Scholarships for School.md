@@ -30,9 +30,9 @@ I was skeptical at first, but there is literally a scholarship for <b>anything</
 Not all of them are going to need <b>SAT/ACT</b> scores, essays, transcripts, or recommendations. Some of them are as simple as entering your general information, and pressing submit. This is one of the reasons that I took so long to start, I thought that I was severely unprepared in terms of paperwork and that acquiring these things would be too challenging for me. 
 
 ---
-<center>
+
 ![](https://cdn.steemitimages.com/DQmQrhiw6nHvAMpoaPheZJfAH1TCosbcZLskMtowT7Hr8aC/draft%20letter.png)
-</center>
+
 <h3>Letters of Recommendation</h3>
 
 When we selected some scholarships we wanted to apply to, V asked me if I had gotten any professors that would be <i>willing to write me a letter of recommendation.</i> I was like a letter of what? I learned from her that there are many scholarships that ask for contact information for the person who is writing your recommendation—In the event that you become a finalist in the selection process. 
