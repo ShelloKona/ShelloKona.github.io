@@ -1,6 +1,7 @@
 ﻿Something I procrastinated on until just recently was applying for scholarships to help pay for college. It's terrifying enough to complete <b>FAFSA</b> for financial aid, or even <i>registering</i> for classes. The mentality I've always held about them was that they were straight-up impossible to get, so why bother? 
 
-![](https://cdn.steemitimages.com/DQmeobKXMB24VYuMbQLenT4zsrBZYc424RpJT66h31QrN1P/book-4126483_1920.jpg)<br>![Pixabay](https://pixabay.com/photos/book-read-student-students-board-4126483/)
+![](https://cdn.steemitimages.com/DQmeobKXMB24VYuMbQLenT4zsrBZYc424RpJT66h31QrN1P/book-4126483_1920.jpg)<br>
+![](https://pixabay.com/photos/book-read-student-students-board-4126483/)
 
 Since school starts up again for me tomorrow, I thought what better time than now to share some things that I'm learning about when applying for them. Maybe this will help others who are scared to begin to sum up the courage to apply for them! Below are what I think are some of the personal "deal-breakers" that will <b>scare someone out of applying.</b>
 
@@ -12,7 +13,7 @@ I am a junior for my bachelor's in Computer Information Systems, and I only star
 
 V asked this favor of me because I had purchased a physical scholarship book for $20 called; <i>"The Ultimate Scholarship Book 2020".</i> While I have tried to find scholarships online before, it was a challenge to determine which ones were <b>real,</b> and which ones were trying to make me sign up for a service, or data mine my personal information.
 
-<center>![school_book.jpg](https://cdn.steemitimages.com/DQmSneifpCzHKkX6SZ3j7TzYtqr2AJK3Tdh34E37v7BdpcB/schol_book.jpg)</center>
+![school_book.jpg](https://cdn.steemitimages.com/DQmSneifpCzHKkX6SZ3j7TzYtqr2AJK3Tdh34E37v7BdpcB/schol_book.jpg)
 
 I feel that one of the things that make it difficult to apply is <b>getting resources</b> on where to apply for them. One really amazing feature about this book (other than multiple guides contained inside) is that at the end of each full detail listing there is a code that you type into the book's website that will take you to the exact page you can apply for that scholarship! I don't have to make accounts or worry about <i>identity theft.</i> finding a reliable resource takes out a lot of the pain of even finding a scholarship to apply to. 
 
